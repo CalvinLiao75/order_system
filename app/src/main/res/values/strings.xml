@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">行動 POS</string>
+    <string name="action_settings">設定</string>
+    <string name="total">總共</string>
+    <string name="barcode">Barcode</string>
+    <string name="clear">清除</string>
+    <string name="edit">編輯</string>
+    <string name="confirm">確認</string>
+    <string name="date">日期</string>
+    <string name="quantity">數量</string>
+    <string name="remove">移除</string>
+    <string name="scan">搜尋</string>
+    <string name="unit_price">單價</string>
+    <string name="name">商品名稱</string>
+    <string name="id">ID</string>
+    <string name="cash">現金</string>
+    <string name="change">找零</string>
+    <string name="hint_search">Enter name </string>
+    <string name="hint_cash">輸入金額</string>
+    <string name="add_new_product">加入新商品</string>
+    <string name="add_stock">更新庫存</string>
+    <string name="previous">&lt;</string>
+    <string name="next">></string>
+    <string name="inventory">菜單</string>
+    <string name="sale">訂單</string>
+    <string name="report">訂單紀錄</string>
+    
+    <string name="dialog_quit">你確定要離開嗎?</string>
+    <string name="dialog_remove_product">你確定要移除此商品嗎</string>
+    <string name="hint_empty_sale">售完</string>
+    <string name="quit">離開</string>
+    <string name="no">不</string>
+    <string name="product_detail">商品細節</string>
+    <string name="stock">庫存</string>
+    <string name="success">成功</string>
+    <string name="fail">失敗</string>
+    <string name="please_input_all">Please fulfill all data.</string>
+    <string name="need_money">Need</string>
+    
+    
+        
+    <string name="lang_en">English</string>
+    <string name="lang_th">ภาษาไทย (th)</string>
+    <string name="lang_jp">日本語 (jp)</string>
+    <string name="hint_lang">Please restart the application to apply this language settings.</string>
+    
+    
+    <string-array name="period">
+        <item>日</item>
+        <item>週</item>
+        <item>月</item>
+        <item>年</item>
+    </string-array>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+
+    <string name="cancel">取消</string>
+    <string name="dialog_clear_sale">你確定要清除此銷售嗎</string>
+    <string name="date_added">新增日期</string>
+    <string name="message">+</string>
+
+</resources>

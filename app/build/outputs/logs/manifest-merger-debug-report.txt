@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [com.android.support:gridlayout-v7:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1093a9cbc72b824f276f791180c8dd34\gridlayout-v7-18.0.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:8:5-11:42
+MERGED from [com.android.support:gridlayout-v7:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1093a9cbc72b824f276f791180c8dd34\gridlayout-v7-18.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:gridlayout-v7:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1093a9cbc72b824f276f791180c8dd34\gridlayout-v7-18.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:8:5-11:42
+INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:8:5-11:42
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:11:9-39
+	android:minSdkVersion
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:13:5-66:19
+MERGED from [com.android.support:gridlayout-v7:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1093a9cbc72b824f276f791180c8dd34\gridlayout-v7-18.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:gridlayout-v7:18.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\1093a9cbc72b824f276f791180c8dd34\gridlayout-v7-18.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.refresh.pos.ui.MainActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:18:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:19:13-59
+activity#com.refresh.pos.ui.SplashScreenActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:26:13-49
+	android:launchMode
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:24:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.refresh.pos.ui.HomeActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:34:13-59
+activity#com.refresh.pos.ui.InventoryActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:37:13-64
+activity#com.refresh.pos.ui.AddProductActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:40:13-65
+activity#com.refresh.pos.ui.inventory.AddProductLotActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:43:13-78
+activity#com.refresh.pos.ui.inventory.ProductDetailActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:46:13-78
+activity#com.refresh.pos.ui.SaleActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:49:13-59
+activity#com.refresh.pos.ui.StockActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:52:13-60
+activity#com.refresh.pos.ui.SaleProductCatalog
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:55:13-65
+activity#com.refresh.pos.ui.sale.SaleLedgerActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:58:13-70
+activity#org.achartengine.GraphicalActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:61:13-62
+activity#com.refresh.pos.ui.sale.SaleDetailActivity
+ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:64:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\5803ed8c8797df0b25305bd99f46d383\support-fragment-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\366a24b6aff72d3207000f48dd1c050a\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\47967ff200281fb32b589d58e71d2db8\support-core-utils-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\7ba5aaf46a5620bf549b326a5c13e81d\support-core-ui-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\93da198830ead2de41fe62ece7528c8a\support-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:26:9-47

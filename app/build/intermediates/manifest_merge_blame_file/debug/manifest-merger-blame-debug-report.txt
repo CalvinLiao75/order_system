@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.refresh.pos"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:8:5-11:42
+8        android:minSdkVersion="9"
+8-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:9:9-34
+9        android:targetSdkVersion="30" />
+9-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:10:9-38
+10
+11    <meta-data
+11-->[com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+12        android:name="android.support.VERSION"
+12-->[com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:26:9-47
+13        android:value="25.3.1" />
+13-->[com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8dce457e9a88679438d79bfee73af573\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+14
+15    <application
+15-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:13:5-66:19
+16        android:allowBackup="true"
+16-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:14:9-35
+17        android:debuggable="true"
+18        android:icon="@drawable/ic_launcher"
+18-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:16:9-45
+19        android:label="@string/app_name"
+19-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:15:9-41
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:17:9-40
+22        <activity
+22-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:18:9-22:20
+23            android:name="com.refresh.pos.ui.MainActivity"
+23-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:19:13-59
+24            android:label="@string/app_name"
+24-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:20:13-45
+25            android:screenOrientation="portrait" >
+25-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:21:13-49
+26        </activity>
+27        <activity
+27-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:23:9-32:20
+28            android:name="com.refresh.pos.ui.SplashScreenActivity"
+28-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:24:13-67
+29            android:launchMode="singleTop"
+29-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:25:13-43
+30            android:screenOrientation="portrait" >
+30-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:26:13-49
+31            <intent-filter>
+31-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:27:13-31:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:28:17-69
+32-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:28:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:30:17-77
+34-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:30:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:33:9-35:52
+38            android:name="com.refresh.pos.ui.HomeActivity"
+38-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:34:13-59
+39            android:screenOrientation="portrait" />
+39-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:35:13-49
+40        <activity
+40-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:36:9-38:52
+41            android:name="com.refresh.pos.ui.InventoryActivity"
+41-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:37:13-64
+42            android:screenOrientation="portrait" />
+42-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:38:13-49
+43        <activity
+43-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:39:9-41:52
+44            android:name="com.refresh.pos.ui.AddProductActivity"
+44-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:40:13-65
+45            android:screenOrientation="portrait" />
+45-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:41:13-49
+46        <activity
+46-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:42:9-44:52
+47            android:name="com.refresh.pos.ui.inventory.AddProductLotActivity"
+47-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:43:13-78
+48            android:screenOrientation="portrait" />
+48-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:44:13-49
+49        <activity
+49-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:45:9-47:52
+50            android:name="com.refresh.pos.ui.inventory.ProductDetailActivity"
+50-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:46:13-78
+51            android:screenOrientation="portrait" />
+51-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:47:13-49
+52        <activity
+52-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:48:9-50:52
+53            android:name="com.refresh.pos.ui.SaleActivity"
+53-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:49:13-59
+54            android:screenOrientation="portrait" />
+54-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:50:13-49
+55        <activity
+55-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:51:9-53:52
+56            android:name="com.refresh.pos.ui.StockActivity"
+56-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:52:13-60
+57            android:screenOrientation="portrait" />
+57-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:53:13-49
+58        <activity
+58-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:54:9-56:52
+59            android:name="com.refresh.pos.ui.SaleProductCatalog"
+59-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:55:13-65
+60            android:screenOrientation="portrait" />
+60-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:56:13-49
+61        <activity
+61-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:57:9-59:52
+62            android:name="com.refresh.pos.ui.sale.SaleLedgerActivity"
+62-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:58:13-70
+63            android:screenOrientation="portrait" />
+63-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:59:13-49
+64        <activity
+64-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:60:9-62:52
+65            android:name="org.achartengine.GraphicalActivity"
+65-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:61:13-62
+66            android:screenOrientation="portrait" />
+66-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:62:13-49
+67        <activity
+67-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:63:9-65:52
+68            android:name="com.refresh.pos.ui.sale.SaleDetailActivity"
+68-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:64:13-70
+69            android:screenOrientation="portrait" />
+69-->C:\Users\user\Desktop\pos-master\app\src\main\AndroidManifest.xml:65:13-49
+70    </application>
+71
+72</manifest>
